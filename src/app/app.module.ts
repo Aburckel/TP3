@@ -24,7 +24,8 @@ import { ApiService } from './api.service';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+    FormsModule,
+    HttpClientModule
   ],
   providers: [ApiService],
   bootstrap: [AppComponent]

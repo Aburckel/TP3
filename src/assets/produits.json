@@ -1,0 +1,22 @@
+[
+  {
+    "nom": "Stylo Rouge",
+    "prix": "1,60"
+  },
+  {
+    "nom": "Stylo Bleu",
+    "prix": "1,78"
+  },
+  {
+    "nom": "Stylo Vert",
+    "prix": "1,98"
+  },
+  {
+    "nom": "Stylo Noir",
+    "prix": "1,00"
+  },
+  {
+    "nom": "Stylo Jaune",
+    "prix": "1,15"
+  }
+]

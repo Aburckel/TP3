@@ -1,1 +1,6 @@
-<p *ngFor="let item of produits | async">{{ item.nom }} - {{ item.prix }} </p> 
+<div class="container">
+  <h3>Liste des produits</h3>
+  <ul class="list-group">
+    <li class="list-group-item" *ngFor="let item of produits | async">{{ item.nom }} - {{ item.prix }} </li>
+  </ul>
+</div>
